@@ -1,0 +1,56 @@
+.div {
+	border: 1px solid #000000;
+}
+
+#categoryDivHeader {
+	position: top;
+	cursor: pointer;
+	padding: 3px;
+	margin: 3px;
+	border: 2px solid #dadada;
+	font-size: 25px;
+	font-style: italic;
+	color: blue;
+}
+
+#categoryDivMain {
+	cursor: pointer;
+	border: 1px solid #dadada;
+}
+
+.table,.tr,.td {
+	cursor: pointer;
+	font-family: "Times New Roman";
+	text-align: left;
+	border: 1px solid #00ff00;
+}
+
+#categoryTable {
+	width: 100%;
+}
+
+#tdMainLeft {
+	width: 80%;
+	border: 0.5px solid #000000;
+}
+
+#tdMainRight {
+	width: 20%;
+	border: 0.5px solid #000000;
+}
+
+#categoryTableMain {
+	font-size: 15px;
+}
+
+#categoryTableHeader {
+	background-color: #f000f0;
+	color: blue;
+}
+
+#empty {
+	font-size: 0;
+	background-color: transparent;
+	height: 15px;
+	display: block;
+}

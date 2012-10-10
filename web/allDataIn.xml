@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AllData>
+	<Index>
+		<d Id="535" Score="15"
+			Tags="6198,6178,6193,6191,5219,6182,6203,6207,6179,6195,5041,6205,6192,6180,6200,6206,5293,6185,6199,6187" />
+		<d Id="478" Score="6"
+			Tags="5417,5419,5431,5433,5439,5440,5437,5434,5421,5422,5423,5429,5436,5441,5424,5442,5438,5418,5428,5426" />
+		<d Id="459" Score="6" Tags="5092,5086,5091,5087,5089,5085,5088,5084,5090" />
+		<d Id="485" Score="5"
+			Tags="5598,5625,5219,5619,5097,5622,5615,5608,5613,5601,5607,5620,5600,5626,5422,5605,5599,5596,5597,5616" />
+		<d Id="516" Score="5" Tags="6011" />
+	</Index>
+	<Inverted>
+		<t DIds="535" TId="6198" />
+		<t DIds="535" TId="6178" />
+		<t DIds="535" TId="6193" />
+		<t DIds="535" TId="6191" />
+		<t DIds="535,485" TId="5219" />
+		<t DIds="535" TId="6182" />
+		<t DIds="535" TId="6203" />
+		<t DIds="535" TId="6207" />
+		<t DIds="535" TId="6179" />
+		<t DIds="535" TId="6195" />
+		<t DIds="535" TId="5041" />
+		<t DIds="535" TId="6205" />
+		<t DIds="535" TId="6192" />
+		<t DIds="535" TId="6180" />
+		<t DIds="535" TId="6200" />
+		<t DIds="535" TId="6206" />
+		<t DIds="535" TId="5293" />
+		<t DIds="535" TId="6185" />
+		<t DIds="535" TId="6199" />
+		<t DIds="535" TId="6187" />
+		<t DIds="478" TId="5417" />
+		<t DIds="478" TId="5419" />
+		<t DIds="478" TId="5431" />
+		<t DIds="478" TId="5433" />
+		<t DIds="478" TId="5439" />
+		<t DIds="478" TId="5440" />
+		<t DIds="478" TId="5437" />
+		<t DIds="478" TId="5434" />
+		<t DIds="478" TId="5421" />
+		<t DIds="478,485" TId="5422" />
+		<t DIds="478" TId="5423" />
+		<t DIds="478" TId="5429" />
+		<t DIds="478" TId="5436" />
+		<t DIds="478" TId="5441" />
+		<t DIds="478" TId="5424" />
+		<t DIds="478" TId="5442" />
+		<t DIds="478" TId="5438" />
+		<t DIds="478" TId="5418" />
+		<t DIds="478" TId="5428" />
+		<t DIds="478" TId="5426" />
+		<t DIds="459" TId="5092" />
+		<t DIds="459" TId="5086" />
+		<t DIds="459" TId="5091" />
+		<t DIds="459" TId="5087" />
+		<t DIds="459" TId="5089" />
+		<t DIds="459" TId="5085" />
+		<t DIds="459" TId="5088" />
+		<t DIds="459" TId="5084" />
+		<t DIds="459" TId="5090" />
+		<t DIds="485" TId="5598" />
+		<t DIds="485" TId="5625" />
+		<t DIds="485" TId="5619" />
+		<t DIds="485" TId="5097" />
+		<t DIds="485" TId="5622" />
+		<t DIds="485" TId="5615" />
+		<t DIds="485" TId="5608" />
+		<t DIds="485" TId="5613" />
+		<t DIds="485" TId="5601" />
+		<t DIds="485" TId="5607" />
+		<t DIds="485" TId="5620" />
+		<t DIds="485" TId="5600" />
+		<t DIds="485" TId="5626" />
+		<t DIds="485" TId="5605" />
+		<t DIds="485" TId="5599" />
+		<t DIds="485" TId="5596" />
+		<t DIds="485" TId="5597" />
+		<t DIds="485" TId="5616" />
+		<t DIds="516" TId="6011" />
+	</Inverted>
+	<Filters>
+		<person>
+			<t ID="5599" Name="Eduardo Mendoza" Num="1" />
+			<l ID1="5599" ID2="5608" Num="1" />
+			<l ID1="5599" ID2="5613" Num="1" />
+			<l ID1="5599" ID2="5605" Num="1" />
+			<l ID1="5599" ID2="5601" Num="1" />
+			<l ID1="5599" ID2="5607" Num="1" />
+			<l ID1="5599" ID2="5615" Num="1" />
+			<l ID1="5599" ID2="5597" Num="1" />
+			<l ID1="5599" ID2="5626" Num="1" />
+			<t ID="6206" Name="Jonathan Borofsky" Num="1" />
+			<l ID1="6206" ID2="6182" Num="1" />
+			<l ID1="6206" ID2="6193" Num="1" />
+			<l ID1="6206" ID2="6180" Num="1" />
+			<l ID1="6206" ID2="6192" Num="1" />
+			<l ID1="6206" ID2="6187" Num="1" />
+			<l ID1="6206" ID2="6185" Num="1" />
+			<l ID1="6206" ID2="6195" Num="1" />
+			<l ID1="6206" ID2="6179" Num="1" />
+			<l ID1="6206" ID2="6191" Num="1" />
+			<l ID1="6206" ID2="6205" Num="1" />
+			<t ID="5608" Name="Don Quixote" Num="1" />
+			<l ID1="5608" ID2="5613" Num="1" />
+			<l ID1="5608" ID2="5605" Num="1" />
+			<l ID1="5608" ID2="5601" Num="1" />
+			<l ID1="5608" ID2="5607" Num="1" />
+			<l ID1="5608" ID2="5615" Num="1" />
+			<l ID1="5608" ID2="5597" Num="1" />
+			<l ID1="5608" ID2="5626" Num="1" />
+			<t ID="6182" Name="Dieter Hacker" Num="1" />
+			<l ID1="6182" ID2="6193" Num="1" />
+			<l ID1="6182" ID2="6180" Num="1" />
+			<l ID1="6182" ID2="6192" Num="1" />
+			<l ID1="6182" ID2="6187" Num="1" />
+			<l ID1="6182" ID2="6185" Num="1" />
+			<l ID1="6182" ID2="6195" Num="1" />
+			<l ID1="6182" ID2="6179" Num="1" />
+			<l ID1="6182" ID2="6191" Num="1" />
+			<l ID1="6182" ID2="6205" Num="1" />
+			<t ID="5423" Name="Norman" Num="1" />
+			<l ID1="5423" ID2="5419" Num="1" />
+			<l ID1="5423" ID2="5431" Num="1" />
+			<l ID1="5423" ID2="5424" Num="1" />
+			<l ID1="5423" ID2="5429" Num="1" />
+			<l ID1="5423" ID2="5428" Num="1" />
+			<l ID1="5423" ID2="5438" Num="1" />
+			<l ID1="5423" ID2="5418" Num="1" />
+			<t ID="6193" Name="Doris" Num="1" />
+			<l ID1="6193" ID2="6180" Num="1" />
+			<l ID1="6193" ID2="6192" Num="1" />
+			<l ID1="6193" ID2="6187" Num="1" />
+			<l ID1="6193" ID2="6185" Num="1" />
+			<l ID1="6193" ID2="6195" Num="1" />
+			<l ID1="6193" ID2="6179" Num="1" />
+			<l ID1="6193" ID2="6191" Num="1" />
+			<l ID1="6193" ID2="6205" Num="1" />
+			<t ID="5613" Name="Juan Luis Cebrian" Num="1" />
+			<l ID1="5613" ID2="5605" Num="1" />
+			<l ID1="5613" ID2="5601" Num="1" />
+			<l ID1="5613" ID2="5607" Num="1" />
+			<l ID1="5613" ID2="5615" Num="1" />
+			<l ID1="5613" ID2="5597" Num="1" />
+			<l ID1="5613" ID2="5626" Num="1" />
+			<t ID="5084" Name="John D . Rockefeller" Num="1" />
+			<l ID1="5084" ID2="5087" Num="1" />
+			<t ID="6180" Name="Georg Baselitz" Num="1" />
+			<l ID1="6180" ID2="6192" Num="1" />
+			<l ID1="6180" ID2="6187" Num="1" />
+			<l ID1="6180" ID2="6185" Num="1" />
+			<l ID1="6180" ID2="6195" Num="1" />
+			<l ID1="6180" ID2="6179" Num="1" />
+			<l ID1="6180" ID2="6191" Num="1" />
+			<l ID1="6180" ID2="6205" Num="1" />
+			<t ID="6192" Name="Emilio Vedova" Num="1" />
+			<l ID1="6192" ID2="6187" Num="1" />
+			<l ID1="6192" ID2="6185" Num="1" />
+			<l ID1="6192" ID2="6195" Num="1" />
+			<l ID1="6192" ID2="6179" Num="1" />
+			<l ID1="6192" ID2="6191" Num="1" />
+			<l ID1="6192" ID2="6205" Num="1" />
+			<t ID="6187" Name="Richard Hamilton" Num="1" />
+			<l ID1="6187" ID2="6185" Num="1" />
+			<l ID1="6187" ID2="6195" Num="1" />
+			<l ID1="6187" ID2="6179" Num="1" />
+			<l ID1="6187" ID2="6191" Num="1" />
+			<l ID1="6187" ID2="6205" Num="1" />
+			<t ID="5419" Name="Prince Charles" Num="1" />
+			<l ID1="5419" ID2="5431" Num="1" />
+			<l ID1="5419" ID2="5424" Num="1" />
+			<l ID1="5419" ID2="5429" Num="1" />
+			<l ID1="5419" ID2="5428" Num="1" />
+			<l ID1="5419" ID2="5438" Num="1" />
+			<l ID1="5419" ID2="5418" Num="1" />
+			<t ID="5431" Name="Peter Choi" Num="1" />
+			<l ID1="5431" ID2="5424" Num="1" />
+			<l ID1="5431" ID2="5429" Num="1" />
+			<l ID1="5431" ID2="5428" Num="1" />
+			<l ID1="5431" ID2="5438" Num="1" />
+			<l ID1="5431" ID2="5418" Num="1" />
+			<t ID="5424" Name="Joan Sutherland" Num="1" />
+			<l ID1="5424" ID2="5429" Num="1" />
+			<l ID1="5424" ID2="5428" Num="1" />
+			<l ID1="5424" ID2="5438" Num="1" />
+			<l ID1="5424" ID2="5418" Num="1" />
+			<t ID="5429" Name="John H . Pain" Num="1" />
+			<l ID1="5429" ID2="5428" Num="1" />
+			<l ID1="5429" ID2="5438" Num="1" />
+			<l ID1="5429" ID2="5418" Num="1" />
+			<t ID="5605" Name="Juan Jose Millas" Num="1" />
+			<l ID1="5605" ID2="5601" Num="1" />
+			<l ID1="5605" ID2="5607" Num="1" />
+			<l ID1="5605" ID2="5615" Num="1" />
+			<l ID1="5605" ID2="5597" Num="1" />
+			<l ID1="5605" ID2="5626" Num="1" />
+			<t ID="6185" Name="Ed Kienholz" Num="1" />
+			<l ID1="6185" ID2="6195" Num="1" />
+			<l ID1="6185" ID2="6179" Num="1" />
+			<l ID1="6185" ID2="6191" Num="1" />
+			<l ID1="6185" ID2="6205" Num="1" />
+			<t ID="5428" Name="Dr . Solomon Bard" Num="1" />
+			<l ID1="5428" ID2="5438" Num="1" />
+			<l ID1="5428" ID2="5418" Num="1" />
+			<t ID="5601" Name="Gustavo Dominguez" Num="1" />
+			<l ID1="5601" ID2="5607" Num="1" />
+			<l ID1="5601" ID2="5615" Num="1" />
+			<l ID1="5601" ID2="5597" Num="1" />
+			<l ID1="5601" ID2="5626" Num="1" />
+			<t ID="5607" Name="Javier Marias" Num="1" />
+			<l ID1="5607" ID2="5615" Num="1" />
+			<l ID1="5607" ID2="5597" Num="1" />
+			<l ID1="5607" ID2="5626" Num="1" />
+			<t ID="5438" Name="David Atherton" Num="1" />
+			<l ID1="5438" ID2="5418" Num="1" />
+			<t ID="6195" Name="Joan Jonas" Num="1" />
+			<l ID1="6195" ID2="6179" Num="1" />
+			<l ID1="6195" ID2="6191" Num="1" />
+			<l ID1="6195" ID2="6205" Num="1" />
+			<t ID="6179" Name="Wilhelm" Num="1" />
+			<l ID1="6179" ID2="6191" Num="1" />
+			<l ID1="6179" ID2="6205" Num="1" />
+			<t ID="5615" Name="Pedro Almodovar" Num="1" />
+			<l ID1="5615" ID2="5597" Num="1" />
+			<l ID1="5615" ID2="5626" Num="1" />
+			<t ID="6191" Name="Robert Filliou" Num="1" />
+			<l ID1="6191" ID2="6205" Num="1" />
+			<t ID="5418" Name="Wayne Maddern" Num="1" />
+			<t ID="6205" Name="Joseph Beuys" Num="1" />
+			<t ID="5087" Name="Edo Period" Num="1" />
+			<t ID="5597" Name="Alvar" Num="1" />
+			<l ID1="5597" ID2="5626" Num="1" />
+			<t ID="5626" Name="Manuel Vazquez Montalban" Num="1" />
+		</person>
+		<organization>
+			<t ID="6200" Name="Pompidou Center" Num="1" />
+			<t ID="5437" Name="Hong Kong International" Num="1" />
+			<l ID1="5437" ID2="5426" Num="1" />
+			<l ID1="5437" ID2="5417" Num="1" />
+			<l ID1="5437" ID2="5434" Num="1" />
+			<l ID1="5437" ID2="5421" Num="1" />
+			<l ID1="5437" ID2="5433" Num="1" />
+			<l ID1="5437" ID2="5436" Num="1" />
+			<t ID="5426" Name="Boston Symphony Orchestra" Num="1" />
+			<l ID1="5426" ID2="5417" Num="1" />
+			<l ID1="5426" ID2="5434" Num="1" />
+			<l ID1="5426" ID2="5421" Num="1" />
+			<l ID1="5426" ID2="5433" Num="1" />
+			<l ID1="5426" ID2="5436" Num="1" />
+			<t ID="5417" Name="Hong Kong Cultural Center" Num="1" />
+			<l ID1="5417" ID2="5434" Num="1" />
+			<l ID1="5417" ID2="5421" Num="1" />
+			<l ID1="5417" ID2="5433" Num="1" />
+			<l ID1="5417" ID2="5436" Num="1" />
+			<t ID="5085" Name="Asia Society" Num="1" />
+			<t ID="5097" Name="Government" Num="1" />
+			<t ID="5434" Name="Hong Kong Dance Company" Num="1" />
+			<l ID1="5434" ID2="5421" Num="1" />
+			<l ID1="5434" ID2="5433" Num="1" />
+			<l ID1="5434" ID2="5436" Num="1" />
+			<t ID="5421" Name="High School" Num="1" />
+			<l ID1="5421" ID2="5433" Num="1" />
+			<l ID1="5421" ID2="5436" Num="1" />
+			<t ID="5433" Name="Hong Kong Chinese Orchestra" Num="1" />
+			<l ID1="5433" ID2="5436" Num="1" />
+			<t ID="5436" Name="Ming Cantonese Opera Group" Num="1" />
+		</organization>
+		<location>
+			<t ID="5086" Name="725 Park Avenue" Num="1" />
+			<t ID="5219" Name="France" Num="2" />
+			<l ID1="5219" ID2="5616" Num="1" />
+			<l ID1="5219" ID2="6198" Num="1" />
+			<l ID1="5219" ID2="6199" Num="1" />
+			<l ID1="5219" ID2="5620" Num="1" />
+			<l ID1="5219" ID2="5596" Num="1" />
+			<l ID1="5219" ID2="5600" Num="1" />
+			<l ID1="5219" ID2="5622" Num="1" />
+			<l ID1="5219" ID2="5041" Num="1" />
+			<l ID1="5219" ID2="5422" Num="1" />
+			<l ID1="5219" ID2="5598" Num="1" />
+			<l ID1="5219" ID2="6178" Num="1" />
+			<l ID1="5219" ID2="5293" Num="1" />
+			<t ID="5616" Name="Duarte" Num="1" />
+			<l ID1="5616" ID2="5620" Num="1" />
+			<l ID1="5616" ID2="5596" Num="1" />
+			<l ID1="5616" ID2="5600" Num="1" />
+			<l ID1="5616" ID2="5622" Num="1" />
+			<l ID1="5616" ID2="5422" Num="1" />
+			<l ID1="5616" ID2="5598" Num="1" />
+			<t ID="6198" Name="Vienna" Num="1" />
+			<l ID1="6198" ID2="6199" Num="1" />
+			<l ID1="6198" ID2="5041" Num="1" />
+			<l ID1="6198" ID2="6178" Num="1" />
+			<l ID1="6198" ID2="5293" Num="1" />
+			<t ID="6199" Name="Paris-" Num="1" />
+			<l ID1="6199" ID2="5041" Num="1" />
+			<l ID1="6199" ID2="6178" Num="1" />
+			<l ID1="6199" ID2="5293" Num="1" />
+			<t ID="5620" Name="Seville Ateneo Prize" Num="1" />
+			<l ID1="5620" ID2="5596" Num="1" />
+			<l ID1="5620" ID2="5600" Num="1" />
+			<l ID1="5620" ID2="5622" Num="1" />
+			<l ID1="5620" ID2="5422" Num="1" />
+			<l ID1="5620" ID2="5598" Num="1" />
+			<t ID="5596" Name="Jose" Num="1" />
+			<l ID1="5596" ID2="5600" Num="1" />
+			<l ID1="5596" ID2="5622" Num="1" />
+			<l ID1="5596" ID2="5422" Num="1" />
+			<l ID1="5596" ID2="5598" Num="1" />
+			<t ID="5442" Name="China" Num="1" />
+			<l ID1="5442" ID2="5441" Num="1" />
+			<l ID1="5442" ID2="5422" Num="1" />
+			<l ID1="5442" ID2="5439" Num="1" />
+			<t ID="5600" Name="Madrid" Num="1" />
+			<l ID1="5600" ID2="5622" Num="1" />
+			<l ID1="5600" ID2="5422" Num="1" />
+			<l ID1="5600" ID2="5598" Num="1" />
+			<t ID="5622" Name="Barcelona" Num="1" />
+			<l ID1="5622" ID2="5422" Num="1" />
+			<l ID1="5622" ID2="5598" Num="1" />
+			<t ID="5441" Name="Hong Kong Philharmonic" Num="1" />
+			<l ID1="5441" ID2="5422" Num="1" />
+			<l ID1="5441" ID2="5439" Num="1" />
+			<t ID="5041" Name="Berlin" Num="1" />
+			<l ID1="5041" ID2="6178" Num="1" />
+			<l ID1="5041" ID2="5293" Num="1" />
+			<t ID="5422" Name="City" Num="2" />
+			<l ID1="5422" ID2="5598" Num="1" />
+			<l ID1="5422" ID2="5439" Num="1" />
+			<t ID="5598" Name="Spain" Num="1" />
+			<t ID="6178" Name="West Berlin" Num="1" />
+			<l ID1="6178" ID2="5293" Num="1" />
+			<t ID="5293" Name="Europe" Num="1" />
+			<t ID="5439" Name="Victoria Harbor" Num="1" />
+		</location>
+		<other>
+			<t ID="6203" Name="Mayor" Num="1" />
+			<l ID1="6203" ID2="6207" Num="1" />
+			<t ID="6207" Name="Related" Num="1" />
+			<t ID="5440" Name="The outside" Num="1" />
+			<t ID="5092" Name="Saturdays" Num="1" />
+			<l ID1="5092" ID2="5091" Num="1" />
+			<l ID1="5092" ID2="5089" Num="1" />
+			<l ID1="5092" ID2="5088" Num="1" />
+			<l ID1="5092" ID2="5090" Num="1" />
+			<t ID="5091" Name="A.M." Num="1" />
+			<l ID1="5091" ID2="5089" Num="1" />
+			<l ID1="5091" ID2="5088" Num="1" />
+			<l ID1="5091" ID2="5090" Num="1" />
+			<t ID="5089" Name="A major" Num="1" />
+			<l ID1="5089" ID2="5088" Num="1" />
+			<l ID1="5089" ID2="5090" Num="1" />
+			<t ID="5088" Name="Jan." Num="1" />
+			<l ID1="5088" ID2="5090" Num="1" />
+			<t ID="5090" Name="Hours" Num="1" />
+			<t ID="5625" Name="Spanish literary" Num="1" />
+			<l ID1="5625" ID2="5619" Num="1" />
+			<t ID="5619" Name="Spanish writers" Num="1" />
+			<t ID="6011" Name="Yukon gold" Num="1" />
+		</other>
+	</Filters>
+</AllData>
